@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Azim, a full-stack web developer with a passion for creating visually appealing and highly functional web applications.
+
 <!--
 **Azim-me/Azim-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
