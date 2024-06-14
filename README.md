@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+<h1>Hi there 👋</h1>
+</div>
+
 
 I'm Azim, a full-stack web developer passionate about creating visually appealing and highly functional web applications.
 
