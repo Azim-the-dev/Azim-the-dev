@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"/></h1>
 
 I'm Azim, a full-stack web developer passionate about creating visually appealing and highly functional web applications.
 
