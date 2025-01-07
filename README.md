@@ -1,6 +1,6 @@
 <h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"/></h1>
 
-I'm Azim, a full-stack web developer passionate about creating visually appealing and highly functional web applications.
+Hi, I'm Sk Ajimuddin (Azim), a passionate web developer specializing in the MERN stack. I focus on creating scalable, efficient, and user-friendly applications that address real-world challenges. Always eager to learn, I stay up-to-date with the latest technologies to ensure my skills evolve with the ever-changing tech landscape.
 
 ## Socials 🌐
 
